@@ -5,3 +5,4 @@ Oranges
 Bananas
 Pinneaple
 Cherries
+Pears
