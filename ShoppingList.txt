@@ -6,3 +6,5 @@ Bananas
 Pinneaple
 Cherries
 Pears
+Avocados
+Carrots
